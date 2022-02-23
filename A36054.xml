@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions for brewing malt liquors shewing, what care is to be taken in the choice of water, malt, and hops : and in what proportions they are to be mixed, and how boyled and fermented, for making the best March, or October beer, strong ale, &amp;c. : in a method never before published useful for all such as are curious in malt liquors / by a Country gentleman ; with a satyr upon brandy by another hand.</title>
+            <author>Whitaker, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36054</idno>
+            <idno type="STC">Wing D1531</idno>
+            <idno type="STC">ESTC R7839</idno>
+            <idno type="EEBO-CITATION">11801996</idno>
+            <idno type="OCLC">ocm 11801996</idno>
+            <idno type="VID">49389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49389)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 529:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions for brewing malt liquors shewing, what care is to be taken in the choice of water, malt, and hops : and in what proportions they are to be mixed, and how boyled and fermented, for making the best March, or October beer, strong ale, &amp;c. : in a method never before published useful for all such as are curious in malt liquors / by a Country gentleman ; with a satyr upon brandy by another hand.</title>
+                  <author>Whitaker, Edward.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Nutt, near Stationers-Hall.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49389:1"/>
+            <pb facs="tcp:49389:1" rendition="simple:additions"/>
+            <p>DIRECTIONS FOR BREWING <hi>MALT LIQUORS.</hi>
+            </p>
+            <p>SHEWING, What Care is to be taken in the Choice of <hi>Water, Malt,</hi> and <hi>Hops:</hi> And in what Proportions they are to be Mixed, and how Boyled and Fermented, for Making the beſt <hi>March,</hi> or <hi>October Beer,</hi> Strong <hi>Ale,</hi> &amp;c.</p>
+            <p>
+               <hi>In a Method never before Publiſh'd.</hi>
+            </p>
+            <p>Uſeful for all ſuch as are Curious in <hi>Malt LIQ<g ref="char:V">Ʋ</g>ORS.</hi>
+            </p>
+            <p>
+               <hi>By a Countrey Gentleman.</hi>
+            </p>
+            <p>WITH A <hi>SATYR</hi> upon <hi>BRANDY,</hi> By another Hand.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Nutt,</hi> near <hi>Stationers-Hall.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49389:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49389:2"/>
+            <head>DIRECTIONS FOR <hi>Brewing.</hi>
+            </head>
+            <p>THEY who are Curious in <hi>Malt Drinks,</hi> as it is fit every one ſhou'd be that uſes 'em, (un<g ref="char:EOLhyphen"/>leſs their Circumſtances be ſuch that they muſt be contented with what they find) generally make out all their firſt <hi>Wort</hi> alone into <hi>Ale</hi> or <hi>ſtrong Beer. Ale</hi> is the only word uſed in the <hi>North</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> for ſtrong <hi>Malt Drink:</hi> And was like<g ref="char:EOLhyphen"/>ly the only ſtrong Drink our fore-fathers made of <hi>Malt.</hi> This was the <hi>Engliſh Bever<g ref="char:EOLhyphen"/>age</hi> Celebrated by our <hi>Poets,</hi> who yet cou'd
+<pb n="2" facs="tcp:49389:3"/>not forbear to blame the foul Thickneſs of it. One ſays,
+<q>
+                  <l>Men drink it Thick, and piſs it Thin,</l>
+                  <l>Mickle Faith by St. <hi>Eloy,</hi> what leaves it within?</l>
+               </q>
+            </p>
+            <p>Which ſeems thus Tranſlated by another, un<g ref="char:EOLhyphen"/>leſs good Wits jump.</p>
+            <q>
+               <l>—Nil ſpiſſius illa,</l>
+               <l>Dum bibitur, nil clarius eſt dum mingitur; ergo</l>
+               <l>Conſtat quod multas faeces in ventre relinquit.</l>
+            </q>
+            <p>Indeed before the uſe of <hi>Hops,</hi> which began in <hi>England</hi> about the Year 1540, as I take it, it was hard to Brew Drink, which wou'd be Fine before it was Eagar. All good <hi>Ale</hi> is now made with ſome ſmall mixture of <hi>Hops,</hi> tho' not in ſo great Quantity as Strong <hi>Beer,</hi> deſign'd for longer keeping: And is for that purpoſe uſually Brewed in <hi>March</hi> or <hi>October.</hi>
+            </p>
+            <p>He that will Brew well, muſt be care<g ref="char:EOLhyphen"/>ful in the Choice of his <hi>Water, Malt,</hi> and <hi>Hops,</hi> and in the manner of mixing and fer<g ref="char:EOLhyphen"/>menting them.</p>
+            <p n="1">
+               <pb n="3" facs="tcp:49389:3"/> 1. As to <hi>Water, Pond-Water</hi> and other <hi>Standing Waters</hi> in fat Grounds, if clear and ſweet, make a Stronger Drink with leſs <hi>Malt,</hi> then <hi>Well, Pump</hi> or <hi>Conduit Waters:</hi> Tho' any of theſe that are not hungry, and will bear <hi>Sope,</hi> and lather without breaking, are good. <hi>Rain-Water,</hi> which Lathers the beſt of any, if ſaved from <hi>Lead,</hi> or where it brings no <hi>Salt</hi> from the <hi>Mortar</hi> over which it may paſs, is good to Brew <hi>Ale</hi> to be drank new, but is not proper for Drinks to be long kept: It being very apt to change, and unleſs kept cool and in great Quantities, as in the Leaden Ceſterns in Cellers at <hi>Amſterdam,</hi> will corrupt and putrify the ſooneſt of any Water. <hi>Thames-Water</hi> taken up about <hi>Green<g ref="char:EOLhyphen"/>wich</hi> at Low Water, where it is free from all Brackiſhneſs of the <hi>Sea,</hi> and has in it all the Fat and Sullage from this great City of <hi>London,</hi> makes very Strong Drink. It will of it ſelf alone, being carryed to <hi>Sea,</hi> ferment wonderfully, and after its due Pur<g ref="char:EOLhyphen"/>gations, and three times ſtinking (after which it continues ſweet) it will be ſo ſtrong, that Several Sea Commanders have told me it wou'd burn, and has often fuddled their Marriners. Other Commanders have
+<pb n="4" facs="tcp:49389:4"/>denyed this, which I thought I had Reaſon to impute to their want of Obſervation. However I conceive <hi>Thames-Water</hi> is by no means fit to Brew Strong <hi>Beer</hi> to keep, for that, let the Drink which is Brewed of it be never ſo clear, it is apt on any con<g ref="char:EOLhyphen"/>ſiderable and ſudden change of Weather, to ferment and grow foul. And I take this for a Rule, That no <hi>Malt Drink</hi> is truly good, which is not perfectly fine. Upon the whole, the beſt Liquor to Brew with, is that which is taken from a ſmall clear Rivulet or Brook, undiſturb'd by Naviga<g ref="char:EOLhyphen"/>tion or Fording: And taken up in dry Weather, when no Rain has lately waſhed the Banks. My firſt two Brewings were made of ſuch Water; which with all my Care and Experience I cou'd never equal ſince: Though I have been very curious and ſent ſome Miles for my Water. Poſſibly much the beſt Water in <hi>England</hi> is that at <hi>Caſtleton</hi> in <hi>Derbyſhire,</hi> commonly called, <hi>The Devils Arſs,</hi> &amp;c. Which Owzes from a great Rock, covered over with a ſhallow Earth and ſhort Graſs a top. It is in<g ref="char:EOLhyphen"/>credible that ſo much Water ſhou'd perco<g ref="char:EOLhyphen"/>late through ſo vaſt a Quantity of one Rocky Stone, were it not obvious to any one who goes into Pools Hole, where he
+<pb n="5" facs="tcp:49389:4"/>will find the Water continually dripping through the Top, and running down the Sides, till it makes a kind of Chryſtal Ri<g ref="char:EOLhyphen"/>vulet at the Bottom of that Prodigious Rocky Concave. I have ſeen the <hi>Ale</hi> made of <hi>Caſtleton-Water</hi> as clear in three days after it was Barrelled, as the Spring-Water it ſelf, and impoſſible to be known by the Eye in a Glaſs from the fineſt <hi>Canary Wine. Brewers</hi> ſhou'd be as curious in the Choice of <hi>Water</hi> for their firſt <hi>Wort,</hi> as <hi>Cooks</hi> are for their Boyling of <hi>Yellow Peaſe.</hi> For as ſome <hi>Waters</hi> will never Boyle them ſoft; ſo will they never make good <hi>Ale</hi> or Strong <hi>Beer.</hi> However if the beſt <hi>Water</hi> be not to be had, but at too great a diſtance and charge, you may for your Second and Third <hi>Worts</hi> which are quickly ſpent, and uſed only for Table Drink, make uſe of ſuch <hi>Water</hi> as you have near at hand.</p>
+            <p n="2">2. As for your <hi>Malt.</hi> The North Country <hi>Malts</hi> from <hi>Nottinghamſhire, Derbyſhire, Leiceſter<g ref="char:EOLhyphen"/>ſhire, Cheſhire, Lancaſhire,</hi> &amp;c. are the beſt, eſpecially for <hi>Ale,</hi> but are generally too ſlack dryed for <hi>March</hi> or <hi>October Beer,</hi> which is to be kept at leaſt half a Year before it be Drank. The Goodneſs of theſe <hi>Northern Malts</hi> proceeds partly from the
+<pb n="6" facs="tcp:49389:5"/>
+               <hi>Corn</hi> which grows on Grounds more reſt<g ref="char:EOLhyphen"/>ed than in the <hi>Southern Countrys,</hi> where the Rents are more racked, and the Grounds more worn by continual Sowing; and part<g ref="char:EOLhyphen"/>ly from the <hi>making,</hi> in which they take more time then in other parts, and dry it leiſurely with <hi>Pit Coal Charkt,</hi> called in ſome Places <hi>Coak,</hi> and in others <hi>Culm,</hi> which is ſweet and gives a gentle and cer<g ref="char:EOLhyphen"/>tain heat. Whereas in the <hi>South Eaſt</hi> parts, they dry their <hi>Malt</hi> with Straw, which is hard to keep to a moderate and equal heat. And in the <hi>Weſt</hi> Countrys with <hi>Wood,</hi> which gives a moſt ingrateful Tack to ſuch as are not by Cuſtom familiarized to it. Beſides, in the <hi>North,</hi> they do not run out their <hi>Barley</hi> in <hi>Malting</hi> to ſuch Lengths as in other parts: And in Grinding they ſet their Upper <hi>Millſtone</hi> ſo high, that it breaks off only the Tops of the <hi>Clevel,</hi> which makes their Drink ſo fine. And <hi>Malt</hi> ſmall ground will never make fine Drink.</p>
+            <p>There is poſſibly ſome Reaſon for the Obſervation, that <hi>Malt</hi> mixt of ſeveral kinds makes the beſt Drink: And that it ought to ly ground in the Sacks three or four days before it is uſed.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:49389:5"/> 3. Your <hi>Hops</hi> muſt be bright, well ſcent<g ref="char:EOLhyphen"/>ed, well dryed, cured and bagg'd; and generally ſpeaking are beſt about a Year old. They are a very uncertain Crop, and conſequently of a very uncertain Price, ſometimes ſold at about Six Pence, ſome<g ref="char:EOLhyphen"/>times at about half a Crown <hi>per Pound.</hi> And I believe it may be truly ſaid, That better <hi>Hops</hi> have been ſold for Six Pence or under, then ever were ſold for Two Shillings <hi>per Pound,</hi> or upwards. Indeed all Fruits are beſt when they are cheapeſt. Thoſe Years that are kindeſt for the Quality allways pro<g ref="char:EOLhyphen"/>ducing the greateſt Quantity. So that it is certainly a wiſe way, on all accounts, to furniſh one ſelf well with <hi>Hops</hi> well cured in a cheap Year.</p>
+            <p n="4">4. In your mixing and fermenting all theſe three together, That is in <hi>Brewing,</hi> after you have made a diſcreet Choice of your Matterials; You muſt firſt conſider what ſort of Drink you deſign to Brew, and accordingly proportion your Quantities. If you deſign your firſt <hi>Wort</hi> for ſtrong <hi>Ale</hi> or <hi>March</hi> or <hi>October Beer;</hi> you muſt pro<g ref="char:EOLhyphen"/>portion five Gallons of Drink to every
+<pb n="8" facs="tcp:49389:6"/>Buſhell of <hi>Malt</hi> (that is to ſay avoiding Fractions) Eleven Buſhells of <hi>Malt</hi> to an <hi>Hogſhead</hi> of <hi>Ale</hi> or <hi>Beer.</hi> But it muſt be remembred, that in ſo great a diſproportion of <hi>Malt</hi> to Drink, as Eight to Five, almoſt a Third of your Liquor in the firſt <hi>Wort</hi> will be abſorped by the <hi>Malt,</hi> never to be return'd, and an allowance is to be made of about a Sixth Part to evaporat in Boyl<g ref="char:EOLhyphen"/>ing. So that if you expect to clear a Hogſhead of Drink, that is fifty four Gallons, from your firſt <hi>VVort,</hi> you muſt put into your Meſch-Tub near Ninety Gallons of Liquor. But for your Second or Third <hi>VVorts,</hi> the Goods being wet before, you need put up no more Liquor then you in<g ref="char:EOLhyphen"/>tend to make Drink, except an allowance of about a Tenth part for waſt, that not Boyling ſo long as your firſt <hi>VVort.</hi> And you may of your Second <hi>VVort</hi> make one Hogſhead of good middle <hi>Beer</hi> or <hi>Ale,</hi> as Strong as the common <hi>Ale-houſe</hi> Drink in <hi>London.</hi> And your Third <hi>VVort</hi> will make one Hogſhead of good Small Beer.</p>
+            <p>I propoſe in this Caſe the drawing of Three <hi>VVorts</hi> becauſe of the great Quantity of <hi>Malt</hi> to a ſmaller of Liquor. Other<g ref="char:EOLhyphen"/>wiſe
+<pb n="9" facs="tcp:49389:6"/>in Ordinary Brewings, where you de<g ref="char:EOLhyphen"/>ſign not very ſtrong Drink, ſix or ſeven Buſhells of <hi>Malt</hi> will make one Hogſhead of good ſtrong, and another of ſmall Beer. And in ſuch caſe, two <hi>Moakſes</hi> will as well take out the ſtrength of your <hi>Malt,</hi> as three in the other.</p>
+            <p>It is certain that in either of theſe caſes your <hi>Malt</hi> will not be run out as the Com<g ref="char:EOLhyphen"/>mon Brewers uſes to be, ſo that if you take up an handful of the Graines you may blow them out of your hands with your Breath.</p>
+            <p>But it is hardly worth any Man's while, who is not indigent, to run it out farther for his own Family; for all the Drink you can after make of it, will be but like the waſhing of Graines, it will prove poor Stuff. and if not drank preſently, it will be apt to ſtink, unleſs you mix it with ſome of the former <hi>Worts</hi> which it will but ſpoil. Be<g ref="char:EOLhyphen"/>ſides, what you leave in your Graines, by the way propoſed, is not loſt. For if you live in the Countrey, they will nouriſh your Cattle and Swine, and if in a Town, the Poor will be gratified by letting them put
+<pb n="10" facs="tcp:49389:7"/>up ſome cold Water to run through them, which they will carry away cold in Pails, and boyl at home without any trouble or charge to you; ſo that in effect you really relieve the Poor only with a little of your Cold Water which they themſelves draw.</p>
+            <p>The Proportion of <hi>Hops</hi> may be half a Pound to an Hogſhead of ſtrong <hi>Ale;</hi> one Pound to an Hogſhead of ordinary ſtrong <hi>Beer</hi> to be ſoon Drank out: And two Pounds to an Hogſhead of <hi>March</hi> or <hi>October Beer:</hi> And for the after <hi>VVorts,</hi> which are not to be kept long, what comes from the firſt <hi>VVort</hi> will ſerve well enough to Boyl again with them.</p>
+            <p>If you put into your firſt <hi>VVort</hi> a greater Proportion of <hi>Hops,</hi> and Boyl them all the while your <hi>VVort</hi> Boyls, you will make it too bitter: But I conceive it adviſeable to double the Proportion, by taking out the firſt parcell when your <hi>VVort</hi> has Boyled half the time you deſign it, and then adding the ſame Quantity of freſh <hi>Hops</hi> to con<g ref="char:EOLhyphen"/>tinue Boyling till you take your <hi>VVort</hi> out of the Copper. This will ſomewhat en<g ref="char:EOLhyphen"/>creaſe your Charge, but that will be very
+<pb n="11" facs="tcp:49389:7"/>inconſiderable, if your furniſh your ſelf in a cheap year of <hi>Hops.</hi>
+            </p>
+            <p>By this way you will take out only the fine quick Spirits of the <hi>Hops,</hi> (which I take to be an uſeful and wholeſome Vegetable) and will have a good Quantity left fit for the uſe of the Poor, if you give them the laſt run<g ref="char:EOLhyphen"/>ning from your <hi>Malt.</hi>
+            </p>
+            <p>Hitherto of the Qualities and Proportions of your Materials. Now concerning the manner of putting them together.</p>
+            <p>After you have put your Liquor in your Copper, ſtrew an handful two or three of <hi>Bran</hi> or Meal upon it, not ſo much to ſtrengthen your Liquor, as to make it heat quickly, for ſimple Water alone will be long ere it Boyl. But you muſt take your Liquor out of the Copper when it begins to ſimmer, and not ſuffer it to Boyl: For though it were granted that the Boyling did no harm to your Liquor, by evaporat<g ref="char:EOLhyphen"/>ing the Natural Spirit of the Water (which it likely does) yet 'tis a needleſs expence of Fuel and Time, firſt to make it too hot, and after to ſtay till 'tis cooler again. For
+<pb n="12" facs="tcp:49389:8"/>you muſt by no means mix your Malt with Boyling hot Liquor, which will make the Malt clot and cake together, and the moſt flowery parts of it run whitiſh, glewy and ſizy, like Saddlers Paſte, ſo that it will never mix kindly, and give out its Strength equally to the Liquor.</p>
+            <p>I had not dwelt ſo long on this Head, but that I know many put their Malt firſt in the Meſch-Fat, and then pour in their Liquor for the firſt Wort, which is indeed neceſſary in the Second and Third Worts.</p>
+            <p>The contrary Practice of putting in your Liquor firſt, has theſe Advantages.</p>
+            <p>Firſt, You can never otherwiſe gueſs when your Liquor is juſt cool enough to be mingled with your Malt: But in this caſe, you have a certain <hi>Criterion</hi> and Rule to judge by, that is, you muſt let your Liquor remain in your Meſch-Fat till the Vapour from it be ſo far ſpent, that you can ſee your Face in the Liquor: And then pouring your Malt upon it, you have this farther Ad<g ref="char:EOLhyphen"/>vantage, that you keep your Liquor longer hot, and it ſinks gradually, diſtributing it's
+<pb n="13" facs="tcp:49389:8"/>ſtrength to your Liquor equally, without matting, and if it does not deſcend faſt enough of it ſelf, you muſt preſs it down with your Hands or Rudder, with which you uſe to ſtir your Moaks. This muſt be done by degrees: Allways remembring, that you ſhake your Sacks before you re<g ref="char:EOLhyphen"/>move them over the ſides of your Meſch-Fat, to get out the Flower of your Malt which ſticks to them. And after all your Malt is ſettled, and your Liquor appears a<g ref="char:EOLhyphen"/>bove it, you muſt put up in your Meſch-Fat as much more hot Water out of your Cop<g ref="char:EOLhyphen"/>per, as will make in all Ninety Gallons, for one Hogſhead. Then ſtir it almoſt with<g ref="char:EOLhyphen"/>out ceaſing, till it has been in the Meſch-Fat about two hours from the firſt putting up your Malt, in which your Servants may help and relieve one another.</p>
+            <p>After this pull out your Rudder, and putting a little dry Malt a top, cover it cloſe, and let it ſtand half an hour undi<g ref="char:EOLhyphen"/>ſturbed, that it may run off clear, and the Malt being ſunk to the bottom, the Liquor a top will run through it all again, and bring away the ſtrength of it. After this, you muſt lift up your Tap-ſtaffe, and let
+<pb n="14" facs="tcp:49389:9"/>out about a Gallon, not into your Tub un<g ref="char:EOLhyphen"/>derneath or Under-back, which is to receive your Wort, but into your long-handle Jett, and put it up back again, ſtopping your Tap hole: This do two or three times, till you find it runs clear, which it will not do at firſt, though your Tap-hoſe be never ſo well adjuſted.</p>
+            <p>Throughout the whole Courſe of your Brewing, you muſt be very carefull to do all you can to promote the Fineneſs and Clear<g ref="char:EOLhyphen"/>neſs of your Drink.</p>
+            <p>In the North of <hi>England,</hi> where much the beſt Malt-Drink is made, they are ſo care<g ref="char:EOLhyphen"/>ful of making their Drink Fine, that they let their firſt Wort ſtand in their Receivers till it is very clear, all the groſs parts being ſunk to the Bottom, this they continue to do about Three hours in Summer, and Ten or Twelve hours in Winter, as occaſion re<g ref="char:EOLhyphen"/>quires, which they call <hi>Blinking,</hi> after which, leaving the Sediment behind, they only lade out the Clear Wort into the Copper. Which Cuſtom is peculiar to the North and wholly unpractiſed in other parts.</p>
+            <pb n="15" facs="tcp:49389:9"/>
+            <p> When all is run out into your Receiver or Under-Back, Lade or Pump out your Second Liquor, ordered ſo as to be juſt then ready to Boyl, on your Moaks: And put<g ref="char:EOLhyphen"/>ing your firſt Wort into your Copper again, let it Boyl reaſonably faſt (which Boyl<g ref="char:EOLhyphen"/>ing the <hi>Hops</hi> put on it will much accelerate) for about one hour and an half, for <hi>March</hi> or <hi>October</hi> Beer to be kept long: And one Hour for ſtrong <hi>Ale,</hi> to be Drank new. I know that a longer Boyling is generally adviſed. But I ſhall anſwer that when I come to ſhew the Reaſons why Common <hi>Brewers</hi> ſeldom or never make good Malt Drinks. I adviſe the <hi>VVort</hi> rather to be Boyled reaſonable faſt, for the time, then to ſtand ſo long to ſimmer, becauſe common Experience ſhews it waſts leſs, and Ferments better, after ſo long Boyling, than Simmer<g ref="char:EOLhyphen"/>ing. And this Obſervation, grounded on Experience, will not ſeem ſtrange to <hi>Philo<g ref="char:EOLhyphen"/>ſophers;</hi> who know, that Six hours of a kindly inſenſible Perſpiration ſhall make a Man lighter in the Morning, then ſo many hours of ordinary Sweating.</p>
+            <pb n="16" facs="tcp:49389:10"/>
+            <p> Poſſibly a leſs Fermentation and greater Evaporation is beſt for the Blood, and greater Fermentation and leſs Evaporation is beſt to prepare other Liquors for a new Fermentation.</p>
+            <p>Your firſt <hi>Wort,</hi> being thus Boyled, muſt be Pump'd or Laded off into one or more Coolers or Cool-Backs, in which leave the Sullage behind, and let it run off Fine. The more Coolers, and the thinner it ſtands, and the ſooner it Cools (eſpecially in hot Weather) the better: Let it run from your Cool-backs into your Tun very Cool, and ſet it not there to Work, in Summer, till 'tis as cool as Water. In Winter it muſt be near Blood Warm, at leaſt the Bowl in which you put your <hi>Yeſt</hi> to ſet the reſt on Working muſt have a mixture of <hi>VVort</hi> hot enough to make it all Ferment. When you find it begins to work up thick to a <hi>Yeſt,</hi> mix it again with your Hand Jett, and when it has workt it ſelf a Second time to a <hi>Yeſt:</hi> If you deſign'd it for <hi>Ale</hi> and ſpeedy Drinking, and hopp'd it accord<g ref="char:EOLhyphen"/>ingly, then beat in the <hi>Yeſt</hi> every five hours, for two days together, in the Summer time,
+<pb n="17" facs="tcp:49389:10"/>or more, according as the Weather is; and for three or four days in Winter, covering your Fat cloſe that it fall not in your work<g ref="char:EOLhyphen"/>ing Tun.</p>
+            <p>When your <hi>Yeſt</hi> begins to work ſad, and upon turning the Concave of your Bowl downwards ſticks faſt to the inſide, then, skimming off the <hi>Yeſt</hi> firſt, cleanſe the reſt into your Veſſel, leaving all your Dregs in the bottom of your Tun, and putting only the clear up: After it has a little Fermented in your Veſſel, you will find it in a few days fine, and fit for your Drink<g ref="char:EOLhyphen"/>ing. Though according to the Quantity of your <hi>Hops</hi> you may proportion it for longer keeping.</p>
+            <p>If you Brew in <hi>March</hi> or <hi>October,</hi> and have hopp'd it for long keeping, you muſt then upon its Second Working to a <hi>Yeſt</hi> (after once beating in) cleanſe it into your Veſſel with the <hi>Yeſt</hi> in it, filling it ſtill as it works over, and leaving when you ſtop it up a good thick head of <hi>Yeſt</hi> to keep it.</p>
+            <pb n="18" facs="tcp:49389:11"/>
+            <p> In Brewing <hi>March</hi> and <hi>October Beer,</hi> it it is adviſable to have large Veſſels bound with Iron Hoops, containing Two, Three, or Four Hogſheads, according to the Quantity you intend to make, putting all into one Veſſel. This ſort of Drink keep<g ref="char:EOLhyphen"/>ing, digeſting and mellowing, beſt in the largeſt Quantities.</p>
+            <p>Your Veſſels muſt be Iron hoop'd, elſe your <hi>March Beer</hi> will be in danger to be loſt or ſpoiled: Leaving your Vent Peg allways open Palls it, and if it happen to be faſtned but Six Hours together in the Summer, a ſudden Thunder or Stormy Night may happen next Morning to pre<g ref="char:EOLhyphen"/>ſent you in your Cellar an empty Veſſel and a covered Floor.</p>
+            <p>It is pretended that <hi>March</hi> is the beſt Month for Brewing, and the Water then better than in <hi>October:</hi> But I allways found that the <hi>October Beer,</hi> having ſo many cold Months to digeſt in, proves the better Drink by much; and requires not ſuch watching and tending as the <hi>March Beer</hi> does, in opening and ſtopping the Vent hole on every change of Weather.</p>
+            <pb n="19" facs="tcp:49389:11"/>
+            <p> Many Countrey Gentlemen talk of, and magnify their ſtale <hi>Beer</hi> of Five, Ten, or more years old. 'Tis true more <hi>Malt</hi> and <hi>Hops</hi> than I propoſe will keep Drink long<g ref="char:EOLhyphen"/>er than I uſe to do: But to ſmall purpoſe; for that it will not exceed mine in any thing deſirable, except ſuch an extraordinary Strength as few Men care for. I allways broach mine at about Nine Months end, that is my <hi>March Beer</hi> at <hi>Chriſtmas,</hi> and my <hi>October Beer</hi> at <hi>Midſummer,</hi> at which times it is generally at the beſt. But will keep very well in Bottles a year or two more. Stop your Veſſel cloſe with <hi>Cork,</hi> not <hi>Clay,</hi> and have near the Bung-hole a little Vent-hole ſtop'd with a Spile, which never allow to be pull'd out, till you Bottle or draw off a great Quantity to<g ref="char:EOLhyphen"/>gether. By which means it is kept ſo cloſe ſtopt, that it flouſhes violently out of the Cock for about a Quart, and then ſtops on a ſudden, and Perles and Smiles in a Glaſs like any Bottled <hi>Beer,</hi> though in the Winter time. But if once you pull out the Vent-Peg, to draw a Quantity at once, it will ſenſibly looſe this Briskneſs; and be ſometime before it recovers it.</p>
+            <pb n="20" facs="tcp:49389:12"/>
+            <p> I propoſe no Directions for the Second and Third Worts: He that can manage the firſt well, can never fail in the reſt. Your Third <hi>Wort,</hi> being poured on hot Goods, may be only Cold Water.</p>
+            <p>Now that I have given the beſt Directi<g ref="char:EOLhyphen"/>ons for Brewing that readily occur to my Memory. I come to ſhew the Reaſons why Common <hi>Brewers</hi> very ſeldom or never make good Drink. This I know is general<g ref="char:EOLhyphen"/>ly attributed to their Underboyling their ſtrong <hi>Worts,</hi> which to prevent, ſome <hi>Brewers</hi> to their Detriment, and no man<g ref="char:EOLhyphen"/>ner of Advantage to their Drink, have Boyled them three hours, which is thrice as long as needed; and all to no purpoſe.</p>
+            <p>In moſt (if not all) of the Northern Counties there are few or no Common <hi>Brewers.</hi> The Inn-keepers and Publick <hi>Ale</hi> Houſes Brewing what they Retail in their own Houſes. And Private Families for themſelves. And in all theſe Counties 'tis as rare to find any ill Malt Liquors, as it is to find good in <hi>London,</hi> or the adjacent Counties.</p>
+            <pb n="21" facs="tcp:49389:12"/>
+            <p> This may ſerve to ſhew the Miſtake of thoſe, who ground their Computation of the Number and Proportion of Inhabit<g ref="char:EOLhyphen"/>ants, between ſome Southern and Northern Cities and Towns, on the Kings Revenew of Exciſe ariſing out of them. For that, in the Eaſtern and Southern Counties, a<g ref="char:EOLhyphen"/>bounding in Common <hi>Brewers,</hi> almoſt all the Inhabitants of Cities and great Towns there, and the meaner People of their Neighbourhood, take their Drink of the Common <hi>Brewers,</hi> clog'd with Exciſe; which few or none of all the Inhabitants of the Northern Towns do.</p>
+            <p>In the <hi>Weſt</hi> of <hi>England,</hi> They have ſome Common <hi>Brewers,</hi> but not in Proportion to the <hi>Eaſt</hi> and <hi>South.</hi> In moſt parts of the <hi>Weſt,</hi> their Malt is ſo ſtenched with the Smoak of the Wood, with which 'tis dryed, that no Stranger can endure it, though the Inhabitants, who are famili<g ref="char:EOLhyphen"/>arized to it, can ſwallow it as the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> do their thick Black <hi>Beer</hi> Brewed with <hi>Buck Wheat.</hi>
+            </p>
+            <pb n="22" facs="tcp:49389:13"/>
+            <p> In <hi>Briſtol</hi> they have conſiderable Quanti<g ref="char:EOLhyphen"/>ties of <hi>Malt</hi> by <hi>Sea</hi> from <hi>Wales,</hi> ſome dry<g ref="char:EOLhyphen"/>ed with <hi>Straw,</hi> ſome with <hi>Coak</hi> or <hi>Culm,</hi> much the beſt way of Drying. Yet have little good Drink made from it, which is generally imputed to the Brackiſhneſs of their Water.</p>
+            <p>In ſhort, the Reaſon why Publick and Common <hi>Brewers</hi> ſeldom or never Brew good Drink is, That they Wet more Malt at once, then 'tis poſſible they can have Veſſels and Servants enough to Work, and ſet it cool enough to Ferment kindly: And withall, Brew ſo often, that they cannot ſufficiently, between one Brewing and another, cleanſe and ſcald their Brew<g ref="char:EOLhyphen"/>ing Veſſels and Barrels, giving them due time to dry, but that they will retain ſuch a Reſt as will always Char and Sour their Liquors. And the Miſchiefs accrew<g ref="char:EOLhyphen"/>ing by ſuch Neglects are incredible to Perſons unexperienced.</p>
+            <pb n="23" facs="tcp:49389:13"/>
+            <p> My Brewers have been ſo cautious in this Particular, that if any Servants of the Houſe, have by accident made uſe of any long handled Jett, hand Jett, or Pail, with cold Water during the Brewing; they have ſcalded it a new, and let it dry before they wou'd uſe it again.</p>
+            <p>This Practice of the Common <hi>Brewers</hi> Wetting ſuch vaſt Quantities of <hi>Malt</hi> at once, and Brewing ſo often, puts me in Mind of the Story of <hi>Melibeus</hi> the <hi>Mantuan Shepherd</hi> in <hi>Boccalin,</hi> who tells the <hi>Roman Empire,</hi> that whilſt he and <hi>Menalcas</hi> kept Five Hundred Sheep each, as they long did, they made a Crown a Head by the Wooll and Lambs, amounting to Five Hundred Crowns <hi>Per Annum.</hi> But when <hi>Menalcas,</hi> from Covetuouſneſs doubled his Flock to a Thouſand Sheep, expecting to get thereby a Thouſand Crowns a Year, he made but Three Hundred Crowns; and when he trebled his Flock, and made them Fifteen Hundred Sheep, he got nothing.</p>
+            <pb n="24" facs="tcp:49389:14"/>
+            <p> This is but a Courſe <hi>APPLICA<g ref="char:EOLhyphen"/>TION</hi> of a <hi>STORY,</hi> fram'd with a great Contexture of Witt and Political Wiſdom.</p>
+         </div>
+         <div type="poem">
+            <pb n="25" facs="tcp:49389:14"/>
+            <head>A SATYR UPON Brandy.</head>
+            <lg>
+               <l>FArewel damn'd <hi>Stygian</hi> Juyce, that doſt bewitch,</l>
+               <l>From the Court Bawd, down to the Country Bitch;</l>
+               <l>Thou Liquid Flame, by whom each firey Face</l>
+               <l>Lives without Meat, and bluſhes without Grace,</l>
+               <l>Sink to thy Native Hell to mend the Fire,</l>
+               <l>Or if it pleaſe thee to aſcend yet higher,</l>
+               <l>To the dull Climate go, from whence you came,</l>
+               <l>Where VVit and Courage do require your Flame;</l>
+               <pb n="26" facs="tcp:49389:15"/>
+               <l>VVhere they Carouſe it in <hi>Veſuvian</hi> Bowls,</l>
+               <l>To cruſt the Quagmire of their ſpungy Souls:</l>
+               <l>Had <hi>Dives</hi> for thy ſcorching Liquor cry'd,</l>
+               <l>
+                  <hi>Abraham</hi> in Mercy had his ſuit deny'd;</l>
+               <l>Had <hi>Bonner</hi> known thy force, the Martyrs Blood</l>
+               <l>Had hiſs'd in thee, and ſav'd the Nations VVood:</l>
+               <l>Eſſence of Ember, ſcum of melting flint,</l>
+               <l>VVith all the Native ſparkles floating in't;</l>
+               <l>Sure the <hi>Black-Chymiſt</hi> with his Cloven foot,</l>
+               <l>All <hi>Aetna</hi>'s ſimples in one Lymbeck put,</l>
+               <l>And double ſtill'd, nay quinteſſenc'd thy Juyce,</l>
+               <l>To charcoal Mortals for his future uſe.</l>
+               <l>Fire-ſhip of Nature, thou doſt doubly wound,</l>
+               <l>For they that graple thee, are burnt and drown'd:</l>
+               <l>As when Heaven preſt th' Auxiliaries of Hell,</l>
+               <l>A flaming ſtorm on curſed <hi>Sodom</hi> fell,</l>
+               <l>And when it's ſingle Plagues would not prevail,</l>
+               <l>
+                  <hi>Egypt</hi> was ſcalt with kindled Rain and Hail.</l>
+               <l>So Natures feuds are reconcil'd in thee,</l>
+               <l>Thou two great Judgments in Epitome.</l>
+               <l>God's paſt and future Anger breath in you,</l>
+               <l>A Deluge and a Conflagration too.</l>
+            </lg>
+            <lg>
+               <l>View yonder Sott, I do not mean Shr—Sh—</l>
+               <l>Grilled all o're, by thee, from head to foot,</l>
+               <l>His greaſie Eye-lids ſhoar'd above their pitch,</l>
+               <l>His Face with Carbuncles, and Rubies rich,</l>
+               <l>His Scull inſtead of Brains ſupply'd with Cinder,</l>
+               <l>His Noſe turns all his Handkerchiefs to Tinder;</l>
+               <pb n="27" facs="tcp:49389:15"/>
+               <l>He breaths like a Smiths Forge, and wets the fire</l>
+               <l>Not to allay the flame but raiſe it higher.</l>
+               <l>His Stomach don't concoct, but bake his Food,</l>
+               <l>His Liver even vitrefies his Blood;</l>
+               <l>His trembling hand ſcarce heaves his Liquor in,</l>
+               <l>His Nerves all crackle under's Parchment Skin;</l>
+               <l>His Guts from Natures drudgery are freed,</l>
+               <l>And in his Bowels <hi>Salamanders</hi> breed.</l>
+               <l>He's grown too hot to think, too dull to laugh,</l>
+               <l>And ſteps as tho' he walkt with <hi>Pindars</hi> ſtaff.</l>
+               <l>The moveing Glaſs-houſe lightens in his Eyes,</l>
+               <l>Singes his Cloaths, and all his Marrow frys,</l>
+               <l>Glows for a while, and then in Aſhes dyes.</l>
+               <l>Thus like a ſham <hi>Promethius</hi> we find,</l>
+               <l>Thou ſtol'ſt a Fire from Hell, to kill mankind.</l>
+               <l>But ſtay, leaſt I the Saints dire Anger merit,</l>
+               <l>By ſtinting their Auxilliary Spirit;</l>
+               <l>I am inform'd, whate're we wicked think,</l>
+               <l>Brandy's reform'd, and turn'd a godly Drink.</l>
+               <l>E'er ſince the Publick Faith for Plate did VVimble,</l>
+               <l>And Sanctifi'd thy <hi>Gill</hi> with <hi>Hannah</hi>'s Thimble,</l>
+               <l>Thou'ſt left thy old bad Company of Vermin,</l>
+               <l>The ſwearing Porters, and the drunken Carmen,</l>
+               <l>And the new drivers of the <hi>Hackney</hi> Coaches,</l>
+               <l>And now tak'ſt up with ſage diſcreet debauches;</l>
+               <l>Thou freely drop'ſt upon Gold Chains and Fur,</l>
+               <l>And Sots of Quality thy Minions are.</l>
+               <l>No more ſhalt thou foment an Ale-houſe brawl,</l>
+               <l>But the more ſober Riots of <hi>Guild-Hall;</hi>
+               </l>
+               <pb n="28" facs="tcp:49389:16"/>
+               <l>VVhere by thy Spirits fallible Direction,</l>
+               <l>The Reprobates once pol'd for an Election:</l>
+               <l>If this trade hold, what ſhall we Mortals do,</l>
+               <l>The Saints Sequeſter even our Vices too.</l>
+               <l>For ſince the Art of VVhoring's grown preciſe,</l>
+               <l>And Perjury has got demurer Eyes,</l>
+               <l>'Tis time, high time to circumciſe the <hi>Gill,</hi>
+               </l>
+               <l>And not let Brandy be <hi>Philiſtian</hi> ſtill.</l>
+               <l>Go then thou Emblem of their torrid Zeal,</l>
+               <l>Add flame to flame, and their ſtiff tempers kneal,</l>
+               <l>'Till they grow ductile to the Publick VVeal.</l>
+               <l>And ſince the Godly have eſpous'd thy cauſe,</l>
+               <l>Don't fill their heads with Liberty and Laws,</l>
+               <l>Religion, Priviledges, Lawleſs Charters,</l>
+               <l>Mind them of <hi>Falſtaff</hi>'s Heir-Apparent-Garters,</l>
+               <l>And keep their outward man from <hi>Ketches</hi> quarters.</l>
+               <l>One caution more, now we are out of Hearing,</l>
+               <l>Many have dy'd with drinking, ſome with ſwearing:</l>
+               <l>If theſe two Peſts ſhould in conjunction meet,</l>
+               <l>The Graſs would quickly grow in e'ry Street:</l>
+               <l>Save thou the Nation from that double blow,</l>
+               <l>And keep thy fire from <hi>Salamanca T. O.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49389:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
